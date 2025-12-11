@@ -95,7 +95,7 @@ class cli_bot():
         загружает файл orders
         :return: json
         """
-        with open('C:\work\обучение\llm_rag\ecom-bot\data\orders.json', 'r', encoding='utf-8') as f:
+        with open('C:\llm_rag_ai\ecom-bot\data\orders.json', 'r', encoding='utf-8') as f:
             return json.load(f)
 
     def get_order_status(self, order_id):
@@ -110,7 +110,7 @@ class cli_bot():
         загружает файл faq
         :return: json
         """
-        with open('C:\\work\\обучение\\llm_rag\\ecom-bot\\data\\faq.json', 'r', encoding='utf-8') as f:
+        with open('C:\\llm_rag_ai\\ecom-bot\\data\\faq.json', 'r', encoding='utf-8') as f:
             return json.load(f)
 
 

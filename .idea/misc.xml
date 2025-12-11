@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (EIAP_DL_MIGRATIONSCRIPTS_2ADH3)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (EIAP_DL_MIGRATIONSCRIPTS_2ADH3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (llm_rag_ai)" project-jdk-type="Python SDK" />
 </project>
